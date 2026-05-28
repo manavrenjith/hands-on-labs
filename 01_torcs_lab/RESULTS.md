@@ -86,10 +86,6 @@ The biggest surprise was the hidden bug — no matter how low I set
 TARGET_SPEED, the car always ran at 160 km/h. Finding the root cause 
 (two main blocks, wrong function being called).
 
-## One Thing I Would Try Next
-
-Experiment with disabling ENABLE_TRACTION_CONTROL at high speed to see
-if it makes the car faster or causes it to spin out completely.
 
 ## Summary
 
